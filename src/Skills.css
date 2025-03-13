@@ -1,0 +1,39 @@
+.content {
+    text-align: center;
+    padding: 40px;
+    background-color: #f0f4f8;
+    border-radius: 15px;
+    margin: 20px auto;
+    max-width: 800px; /* Limit width for better readability */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Enhanced shadow for depth */
+}
+
+h2 {
+    font-size: 2.5rem; /* Larger font for headings */
+    color: #333; /* Dark color for headings */
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none; /* Remove default list styles */
+    padding: 0; /* Remove padding */
+}
+
+li {
+    margin: 10px 0; /* Spacing between list items */
+    padding: 10px; /* Padding for list items */
+    background-color: #61dafb; /* Button-like background color */
+    color: #282c34; /* Dark text color */
+    border-radius: 5px; /* Rounded corners for list items */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+li:hover {
+    background-color: #21a1f1; /* Darker shade on hover */
+}
+.skills {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
